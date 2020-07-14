@@ -1,2 +1,2 @@
-# learning_git
+# learning-git
 Relearning and revising git commands.
